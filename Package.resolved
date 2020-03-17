@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BSWFoundation",
+        "repositoryURL": "https://github.com/theleftbit/BSWFoundation.git",
+        "state": {
+          "branch": "develop",
+          "revision": "09f87fdda05f9a0c4741055910b8c501aa4c1adc",
+          "version": null
+        }
+      },
+      {
+        "package": "BSWInterfaceKit",
+        "repositoryURL": "https://github.com/theleftbit/BSWInterfaceKit.git",
+        "state": {
+          "branch": "develop",
+          "revision": "277496c3887efd9f98089201d8213f28edea851c",
+          "version": null
+        }
+      },
+      {
+        "package": "Deferred",
+        "repositoryURL": "https://github.com/bignerdranch/Deferred.git",
+        "state": {
+          "branch": null,
+          "revision": "96ad3f6dd1ddaffe1830dbb3b1cb783a87d6e952",
+          "version": "4.1.0"
+        }
+      },
+      {
+        "package": "KeychainAccess",
+        "repositoryURL": "https://github.com/kishikawakatsumi/KeychainAccess.git",
+        "state": {
+          "branch": null,
+          "revision": "8d33ffd6f74b3bcfc99af759d4204c6395a3f918",
+          "version": "3.2.1"
+        }
+      },
+      {
+        "package": "Nuke",
+        "repositoryURL": "https://github.com/kean/Nuke.git",
+        "state": {
+          "branch": null,
+          "revision": "051fb936fbc0176655acb1085b15be477f3d5015",
+          "version": "8.4.0"
+        }
+      },
+      {
+        "package": "SnapshotTesting",
+        "repositoryURL": "https://github.com/pointfreeco/swift-snapshot-testing.git",
+        "state": {
+          "branch": null,
+          "revision": "114882386a815f4a2e6d8f2f7ee4857acd372438",
+          "version": "1.7.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
